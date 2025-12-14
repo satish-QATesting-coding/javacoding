@@ -25,10 +25,10 @@ class carspeed extends carc{
 public class Methodsupertocallparent {
 
 	public static void main(String[] args) {
-//		carc obj1= new carc();
-//		obj1.carcolor();
-//		carspeed obj2 =new carspeed ();
-//		obj2.speed();
+		//carc obj1= new carc();
+	//	obj1.carcolor();
+	carspeed obj2 =new carspeed ();
+		obj2.speed();
 		carspeed obj3= new carspeed();
 		obj3.display();
 		
